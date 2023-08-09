@@ -7,7 +7,7 @@ This repository contains a set of useful scripts for **Windows** that simplify t
 ### **How to use**
 
 
-- **`Required!`** **Install winape_load scripts:** Run the install script to automatically install the scripts on your Windows system.
+- **`Required!`** **Install winape_load scripts:** Run the install script to automatically install the scripts on your Windows system. **Run as administrator in your terminal (cmd or powershell), to avoid permission issues for installation.** 
 
 ```bat
 .\install.bat
