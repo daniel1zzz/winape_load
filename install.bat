@@ -69,6 +69,7 @@ mkdir %WINAPE_LOAD_PATH%
 copy "winape_load.bat" "%WINAPE_LOAD_PATH%" /Y
 copy "winape_install.bat" "%WINAPE_LOAD_PATH%" /Y
 copy "LICENSE" "%WINAPE_LOAD_PATH%" /Y
+copy "README.md" "%WINAPE_LOAD_PATH%" /Y
 echo.
 echo Adding to the path $PATH$ ...
 setx path "%WINAPE_LOAD_PATH%;%path%" /M
